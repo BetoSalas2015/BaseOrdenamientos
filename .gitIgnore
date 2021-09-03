@@ -1,0 +1,7 @@
+# Archivos a no incluir en el repositorio
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Carpetas a no incluir en el repositorio
+Debug/
